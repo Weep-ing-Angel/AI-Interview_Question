@@ -1,4 +1,4 @@
-# AI-Interview_Question
+1. 手撕二维矩阵相乘
 def matrix_multiply(A, B):
     # 获取矩阵 A 和 B 的尺寸
     n = len(A)
